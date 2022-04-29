@@ -16,7 +16,7 @@ Matlab functions and script to interpolate curves and calculate direct and inver
 
 -linearpiecewise_interpolation3 calculate the linear piecewise interpolation of a set of 3D point.
 
--Scriptcurvesinterpolation is a script to show the functionality of the last files.
+-Scriptcurvesinterpolation is a script to show the functionality of the last files. You can use it as a test file.
 
 Each files has a description of the outputs and the inputs.
 
