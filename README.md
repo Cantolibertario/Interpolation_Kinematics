@@ -21,6 +21,6 @@ Matlab functions and script to interpolate curves and calculate direct and inver
 Each files has a description of the outputs and the inputs.
 
 
-# Question
+# Questions
 
 Write to the mail: r.lozanoc93@gmail.com.
